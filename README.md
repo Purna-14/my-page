@@ -1,4 +1,4 @@
-# my-page
+# My-Food-Application
 
 <img width="1913" height="893" alt="image" src="https://github.com/user-attachments/assets/440bb939-7d6e-44a0-8c58-2161893822e3" />
 <img width="1857" height="827" alt="image" src="https://github.com/user-attachments/assets/e4a3f490-998d-4d8b-9663-337a2d911bc9" />
